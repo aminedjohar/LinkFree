@@ -26,9 +26,6 @@ export default function Premium() {
       name: "Widgets for your content",
     },
     {
-      name: "Early access to Beta features",
-    },
-    {
       name: "Discover page",
     },
     {
